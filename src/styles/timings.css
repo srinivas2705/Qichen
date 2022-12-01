@@ -1,0 +1,39 @@
+.timings{
+    margin-top: 3rem;
+    background-color: rgb(255, 226, 231);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+}
+
+.schedule{
+    font-size: 1.2rem;
+    margin-left: 5rem;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 4rem;
+    background: url(https://demo.webtend.net/html/qichen/assets/images/shape/hour-bg-1.png);
+    padding-top: 1rem;
+}
+
+.timings>img{
+    width: 50%;
+    height: inherit;
+}
+
+.timingstext{
+    width: 50%;
+    text-align: center;
+}
+
+.timingstext>h1{
+    font-size: 2.5rem;
+}
+
+.timingstext>h3{
+    font-size: 1.3rem;
+    color: orangered;
+}

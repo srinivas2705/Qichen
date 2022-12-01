@@ -1,0 +1,14 @@
+.images>section{
+    margin-top: 3rem;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-rows: auto;
+    gap: 0.5rem;
+}
+
+
+
+
+.images>section img{
+    width: 12.5rem;
+}

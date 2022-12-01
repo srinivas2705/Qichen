@@ -1,0 +1,40 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCKDlZNOzyRZs4jUipxUi08vAsNkXv2hT9A&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bannertext{
+    width: 50%;
+    padding-left: 4rem;
+    font-size: 2rem;
+}
+
+.bannertext button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 1rem;
+    width: 10rem;
+}
+
+.bannertext button:hover{
+    background-color: black;
+}
+
+.bannertext1{
+    font-size: 1.4rem;
+    
+}
+
+
+.bannerimg{
+    width: 60%;
+}
+

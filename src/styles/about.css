@@ -1,0 +1,51 @@
+.aboutqichen{
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(255, 226, 231);
+}
+.abouttext{
+    width: 40%;
+    padding: 2rem;
+}
+
+.abouttext>h3{
+    font-size: 1.5rem;
+    color: orangered;
+}
+
+.abouttext>h2{
+   
+    font-size: 2rem;
+}
+
+.abouttext>p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.abouttext>button{
+    padding: 1.2rem;
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius: 1rem;
+}
+
+.abouttext>button:hover{
+    background-color: black;
+}
+
+
+.aboutimages{
+    width: 60%;
+    display: flex;
+    gap:2rem;
+}
+
+.aboutimages>section>img{
+    width: 20rem;
+    height: 30rem;
+}
+

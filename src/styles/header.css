@@ -1,0 +1,52 @@
+.qichen{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.qichenlogo{
+    width: 70%;
+    display: flex;
+    justify-content: start;
+    gap: 2rem;
+}
+
+.qichenlogo img{
+    background-color: orangered;
+}
+
+.ulqichen{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    font-weight: bold;
+}
+
+.qichen2{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonqichen2{
+    background-color: orangered;
+    border: none;
+    height: 3rem;
+    margin-top: 0.1rem;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    width: 10rem;
+    color: white;
+}
+
+.buttonqichen2:hover{
+    background-color: black;
+    color: white;
+}
+
+.textqichen2{
+    display: flex;
+    gap: 1rem;
+    font-weight: bold;
+}
